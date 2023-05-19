@@ -163,6 +163,7 @@ int main() {
 					system("pause");
 					system("cls");
 					break;
+
 				}
 				int nim;
 				cout << "Masukan NIM: ";
