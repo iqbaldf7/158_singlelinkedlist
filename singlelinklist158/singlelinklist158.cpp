@@ -100,6 +100,7 @@ void traverse() {
 		system("cls");
 		return;
 	}
+
 	else
 	{
 		Node* currentNode = START;
